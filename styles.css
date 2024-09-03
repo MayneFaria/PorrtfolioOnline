@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f0f8ff; /* Azul claro */
+    background-color: #f0f8ff; 
     color: #333;
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@ body {
 /* Cabeçalho */
 
 header {
-    background-color: #ff6f61; /* Coral */
+    background-color: #ff6f61; 
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -20,7 +20,7 @@ header {
 /* Navegação */
 
 nav {
-    background-color: #ffcc5c; /* Amarelo */
+    background-color: #ffcc5c; 
     padding: 10px 0;
     text-align: center;
 }
@@ -47,7 +47,7 @@ nav a.active {
 
 main {
     padding: 20px;
-    background-color: #fff; /* Branco */
+    background-color: #fff; 
     border-radius: 10px;
     margin: 20px auto;
     width: 80%;
@@ -81,7 +81,7 @@ textarea {
 
 button {
     padding: 10px 15px;
-    background-color: #ff6f61; /* Coral */
+    background-color: #ff6f61; 
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -91,13 +91,13 @@ button {
 }
 
 button:hover {
-    background-color: #ff4c3b; /* Tom mais escuro de coral */
+    background-color: #ff4c3b; 
 }
 
 /* Rodapé */
 
 footer {
-    background-color: #88d8b0; /* Verde claro */
+    background-color: #88d8b0; 
     color: #fff;
     text-align: center;
     padding: 10px 0;
